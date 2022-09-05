@@ -1,0 +1,21 @@
+{
+  "name": "node-practice-pluralsight",
+  "version": "1.0.0",
+  "description": "\"Practicing the node usage and commands\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "practice"
+  ],
+  "author": "Rohan Baranwal <baranwal.rohan0@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.7.14"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
